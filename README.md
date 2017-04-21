@@ -1,5 +1,7 @@
 # kibana-backup
 
+Tested for Kibana 4 only.
+
 ## Usage
 
 Generate backup:
