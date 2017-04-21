@@ -1,6 +1,6 @@
 # kibana-backup
 
-Tested for Kibana 4 only.
+Script to backup and restore Kibana dashboards. Tested for Kibana 4 only.
 
 ## Usage
 
